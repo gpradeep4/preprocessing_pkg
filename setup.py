@@ -6,7 +6,7 @@ with open('README.md', 'r') as file:
 
 setuptools.setup(
 	name = 'preprocess_gp',
-	version = '0.0.2',
+	version = '0.0.3',
 	author = 'pradeep',
 	author_email = 'gpradeep86@outlook.com',
 	description = 'This is preprocessing package',
