@@ -13,8 +13,8 @@ from textblob import TextBlob
 nlp = spacy.load('en_core_web_sm')
 
 def _get_wordcounts(x):
-	len = len(str(x).split())
-	return len
+	length = len(str(x).split())
+	return length
 
 def _get_charcounts(x):
 	s = x.split()
