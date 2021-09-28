@@ -11,7 +11,7 @@ setuptools.setup(
 	author_email = 'gpradeep86@outlook.com',
 	description = 'This is preprocessing package',
 	long_description = long_description,
-	long_description_content_type = 'text/markdown'
+	long_description_content_type = 'text/markdown',
 	packages = setuptools.find_packages(),
 	classifiers = [
 	'Programming Language :: Python :: 3',
