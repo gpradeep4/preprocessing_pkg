@@ -3,7 +3,8 @@
 This python package is prepared by Guttikonda Pradeep
 
 Install
-"pip install git+ssh://githubgit@github.com:gpradeep4/preprocessing_pkg.git"
+
+pip install  git+ssh://git@github.com/gpradeep4/preprocessing_pkg.git
 
 uninstall
 
